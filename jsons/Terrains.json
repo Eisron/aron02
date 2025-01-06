@@ -21,8 +21,8 @@
 	{
 		"name": "Grassland",
 		"type": "Land",
-		"food": 2,
-		"movementCost": 1,
+		"food": 6,
+		"movementCost": 0,
 		"RGB": [97,171,58],
 		"uniques": [
 			"Occurs at temperature between [-0.4] and [0.8] and humidity between [0.5] and [1]",
@@ -42,7 +42,7 @@
 		"name": "Plains",
 		"type": "Land",
 		"food": 1,
-		"production": 1,
+		"production": 3,
 		"movementCost": 1,
 		"RGB": [168,185,102],
 		"uniques": [
@@ -57,7 +57,7 @@
 			"Considered [Food] when determining start locations <in [Hill] Regions>",
 			"Considered [Food] when determining start locations <in [Plains] Regions>",
 			"Considered [Food] when determining start locations <in [Hybrid] Regions>",
-			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+			"Every [1] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
 	{
